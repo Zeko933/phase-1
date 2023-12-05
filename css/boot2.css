@@ -1,0 +1,22 @@
+.img-fluid {
+    max-width: 25%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.france {
+    max-width: 25%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.contenue{
+   float: left;
+   margin: auto;
+   border: 1px solid #000;
+   content: 00;
+   bgc
+   
+   
+   }
+   

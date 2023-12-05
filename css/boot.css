@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.bg_orange{
+    background-color: orange;
+}
+.border_red{
+    border:1px solid red;
+}
